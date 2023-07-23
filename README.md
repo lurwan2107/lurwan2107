@@ -19,10 +19,12 @@ I have been learning Java and C++ programming languages in my college, but later
 
 
 # Certificatoins:
+<p>
     * Machine Learning: Google Research
       Arewa Data Science Academy
       Issued July 2023
       [Click here to see the credential]()
+</p>
 
 
 
