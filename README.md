@@ -10,7 +10,7 @@ I have been learning Java and C++ programming languages in my college, but later
 * ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on NLP and Reinforcement Learning
-* ⚡  I like reading
+* ⚡  I like reading<a href="https://www.twitter.com/lurwan2107" target="medium" rel="medium">
 
 <a href="https://www.twitter.com/lurwan2107" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lurwan2107?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
