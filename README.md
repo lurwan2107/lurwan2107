@@ -11,7 +11,10 @@ I have been learning Java and C++ programming languages in my college, but later
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on NLP and Reinforcement Learning
 * ⚡  You can check my [medium](https://medium.com/@lurwan2107) blogpost
-    *  [NumPy as a Python Core Library for Data Science](https://medium.com/@lurwan2107/numpy-as-a-python-core-library-for-data-science-b7272313b2e3) 
+    *  [NumPy as a Python Core Library for Data Science](https://medium.com/@lurwan2107/numpy-as-a-python-core-library-for-data-science-b7272313b2e3)
+    *  [Pandas for Data Structures and Data Analysis](https://medium.com/@lurwan2107/pandas-for-data-structures-and-data-analysis-1f1ba1c09eca)
+    *  [Guide To Plotting and Data Visualization](https://medium.com/@lurwan2107/guide-to-plotting-and-data-visualization-15882b218fa3)
+    *  [Accessing and Visualizing Data using Pandas and Matplotlib Parckages](https://medium.com/@lurwan2107/accessing-and-visualizing-data-using-pandas-and-matplotlib-parckages-b6ab87c734fa) 
 
 <a href="https://www.twitter.com/lurwan2107" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lurwan2107?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
