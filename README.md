@@ -10,7 +10,7 @@ I have been learning Java and C++ programming languages in my college, but later
 * ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on NLP and Reinforcement Learning
-* ⚡  You can check my [medium](https://medium.com/@lurwan2107) blogpost
+* ⚡  You can check some of my [medium](https://medium.com/@lurwan2107) blogposts below:
     
      *  [NumPy as a Python Core Library for Data Science](https://medium.com/@lurwan2107/numpy-as-a-python-core-library-for-data-science-b7272313b2e3)
      *  [Pandas for Data Structures and Data Analysis](https://medium.com/@lurwan2107/pandas-for-data-structures-and-data-analysis-1f1ba1c09eca)
