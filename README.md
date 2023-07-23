@@ -15,7 +15,14 @@ I have been learning Java and C++ programming languages in my college, but later
      *  [NumPy as a Python Core Library for Data Science](https://medium.com/@lurwan2107/numpy-as-a-python-core-library-for-data-science-b7272313b2e3)
      *  [Pandas for Data Structures and Data Analysis](https://medium.com/@lurwan2107/pandas-for-data-structures-and-data-analysis-1f1ba1c09eca)
      *  [Guide To Plotting and Data Visualization](https://medium.com/@lurwan2107/guide-to-plotting-and-data-visualization-15882b218fa3)
-     *  [Accessing and Visualizing Data using Pandas and Matplotlib Parckages](https://medium.com/@lurwan2107/accessing-and-visualizing-data-using-pandas-and-matplotlib-parckages-b6ab87c734fa) 
+     *  [Accessing and Visualizing Data using Pandas and Matplotlib Parckages](https://medium.com/@lurwan2107/accessing-and-visualizing-data-using-pandas-and-matplotlib-parckages-b6ab87c734fa)
+
+
+Certificatoins:
+    * Machine Learning: Google Research
+      Arewa Data Science Academy
+      Issued July 2023
+      [Click here to see the credential]()
 
 
 
