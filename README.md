@@ -18,7 +18,7 @@ I have been learning Java and C++ programming languages in my college, but later
      *  [Accessing and Visualizing Data using Pandas and Matplotlib Parckages](https://medium.com/@lurwan2107/accessing-and-visualizing-data-using-pandas-and-matplotlib-parckages-b6ab87c734fa)
 
 
-## Certificatoins:
+# Certificatoins:
     * Machine Learning: Google Research
       Arewa Data Science Academy
       Issued July 2023
