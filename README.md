@@ -27,7 +27,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    [Click here to see the credential]()
 
-   -**Python Programming:** Google Research
+   - **Python Programming:** Google Research
 
    Arewa Data Science Academy Fellowship
 
@@ -35,19 +35,23 @@ I have been learning Java and C++ programming languages in my college, but later
 
    [Click here to see the credential]()
 
-   -**Python Programming for Beginners:** Badge
+   - **Python Programming for Beginners:** Badge
 
    Udacity
 
    Issued January, 20223
 
    [Click here to see the credential]()
-   -**Writing In The Science**
+
+   - **Writing In The Science**
+
    Coursera
+
    Issued July, 2023
+
    [Click here to see the credential]()
 
-   -**Learning How To Learn:** Deep Teaching
+   - **Learning How To Learn:** Deep Teaching
 
    Coursera
 
