@@ -35,9 +35,9 @@ I have been learning Java and C++ programming languages in my college, but later
 
    [Click here to see the credential]()
 
-- **Python Programming for Beginners:** Badge
+- **Python Programming for Beginners:** 
 
-   Udacity
+   Badge offered by Udacity
 
    Issued January, 20223
 
@@ -45,7 +45,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
 - **Writing In The Science**
 
-   Coursera
+   Certificate offered by Coursera
 
    Issued July, 2023
 
@@ -53,7 +53,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
 - **Learning How To Learn:** Deep Teaching
 
-   Coursera
+   Certificate offered by Coursera
 
    Issued March, 2023
 
