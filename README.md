@@ -19,13 +19,21 @@ I have been learning Java and C++ programming languages in my college, but later
 
 ### Certifications
 
--  **Data Science and Machine Learning:** Google Research        - **Python Programming:** Google Research
+-  **Data Science and Machine Learning:** Google Research        
 
-   Arewa Data Science Academy Fellowship                              Arewa Data Science Academy Fellowship
+   Arewa Data Science Academy Fellowship                              
 
-   Issued July, 2023                                                  Issued March, 2023
+   Issued July, 2023                                                 
 
-   [:point_right: Certificate]()                                      [:point_right: Certificate]()
+   [:point_right: Certificate]()
+
+- **Python Programming:** Google Research
+
+  Arewa Data Science Academy Fellowship
+
+  Issued March, 2023
+
+  [:point_right: Certificate]()                                     
 
 - **Python Programming for Beginners:** 
 
