@@ -33,7 +33,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    Issued March, 2023
 
-   [Click here to see the credential]()
+   [:point_right: Certificate]()
 
 - **Python Programming for Beginners:** 
 
@@ -41,7 +41,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    Issued January, 20223
 
-   [Click here to see the credential]()
+   [:point_right: Badge]()
 
 - **Writing In The Science:**
 
@@ -49,7 +49,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    Issued July, 2023
 
-   [Click here to see the credential]()
+   [:point_right: Certificate]()
 
 - **Learning How To Learn:** Deep Teaching
 
@@ -57,7 +57,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    Issued March, 2023
 
-   [Click here to see the credential]()  
+   [:point_right: Certificate]()  
 
 ### Skills
 
