@@ -25,7 +25,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    Issued July, 2023
 
-   [Click here to see the credential]()
+   [:point_right: Certificate]()
 
 - **Python Programming:** Google Research
 
@@ -43,7 +43,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
    [Click here to see the credential]()
 
-- **Writing In The Science**
+- **Writing In The Science:**
 
    Certificate offered by Coursera
 
