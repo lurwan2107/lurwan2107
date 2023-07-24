@@ -17,7 +17,9 @@ I have been learning Java and C++ programming languages in my college, but later
      *  [Guide To Plotting and Data Visualization](https://medium.com/@lurwan2107/guide-to-plotting-and-data-visualization-15882b218fa3)
      *  [Accessing and Visualizing Data using Pandas and Matplotlib Parckages](https://medium.com/@lurwan2107/accessing-and-visualizing-data-using-pandas-and-matplotlib-parckages-b6ab87c734fa)
 
+### Certifications
 
+>-  **Data Science and Machine Learning:** Google Research     
 
 ### Skills
 
