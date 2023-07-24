@@ -20,7 +20,8 @@ I have been learning Java and C++ programming languages in my college, but later
 ### Certifications
 
 -  **Data Science and Machine Learning:** Google Research
-     Arewa Data Science Academy Fellowship     
+
+   Arewa Data Science Academy Fellowship     
 
 ### Skills
 
