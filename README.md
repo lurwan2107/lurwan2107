@@ -33,7 +33,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
 - **Coursera:** Writing In The Science by Stamford University [see credential]()
 
-- **Coursera:** Learning How To Learn (Deep Teaching Solution) [see credential](https://www.coursera.org/account/accomplishments/verify/KEM75EGNUP5P)  
+- **Coursera:** Learning How To Learn (Deep Teaching Solution) [see credential](https://www.coursera.org/account/accomplishments/certificate/KEM75EGNUP5P)  
 
 ### Skills
 
