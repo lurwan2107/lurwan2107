@@ -7,7 +7,7 @@ I'm a Computer Scientist
 I have been learning Java and C++ programming languages in my college, but later on I shifted my focus to practicing python and JavaScript, because of my passion to pursue one of Artificial Intelligence subfields such as Machine Learning and Deep Learning.
 
 * 🌍  I'm based in Katsina, Nigeria
-* ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com)
+* ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com) or [csc180680@students.umyu.edu.ng](mailto:csc180680@students.umyu.edu.ng)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on NLP, Sentiment Analysis and Reinforcement Learning
 * ⚡  You can check some of my [medium](https://medium.com/@lurwan2107) blogposts below:
@@ -21,29 +21,19 @@ I have been learning Java and C++ programming languages in my college, but later
 
 -  **Data Science and Machine Learning:** Google Research        
 
-   Arewa Data Science Academy Fellowship                                                                              
-
-   [:point_right: Certificate]()
+   Arewa Data Science Academy Fellowship: [see credential]()                                                                             
 
 - **Python Programming:** Google Research
 
-  Arewa Data Science Academy Fellowship
-
-  [:point_right: Certificate]()                                     
+  Arewa Data Science Academy Fellowship: [see credential]()                                     
 
 - **Python Programming for Beginners:** 
 
-   Badge offered by Udacity
+   Badge offered by Udacity: [see credential]()
 
-   [:point_right: Badge]()
+- **Coursera:** Writing In The Science by Stamford University [see credential]()
 
-- **Coursera:** Writing In The Science by Stamford University
-
-   [:point_right: Certificate]()
-
-- **Coursera:** Learning How To Learn (Deep Teaching Solution)
-
-   [:point_right: Certificate]()  
+- **Coursera:** Learning How To Learn (Deep Teaching Solution) [see credential]()  
 
 ### Skills
 
