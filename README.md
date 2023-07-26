@@ -29,7 +29,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
 - **Python Programming for Beginners:** 
 
-   Badge offered by Udacity: [see credential]()
+   Badge offered by Udacity: [see credential](https://learn.udacity.com/my-programs?tab=Completed)
 
 - **Coursera:** Writing In The Science by Stamford University [see credential]()
 
