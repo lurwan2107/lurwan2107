@@ -21,15 +21,15 @@ I have been learning Java and C++ programming languages in my college, but later
 
 -  **Data Science and Machine Learning:** Google Research        
 
-   Arewa Data Science Academy Fellowship: [see credential]()                                                                             
+   Arewa Data Science Academy Fellowship: [see credential](https://drive.google.com/file/d/16MtNvYQDId_r_Q--0pAZU-r7kUaPTN0_/view?usp=sharing)                                                                             
 
 - **Python Programming:** Google Research
 
-  Arewa Data Science Academy Fellowship: [see credential]()                                     
+  Arewa Data Science Academy Fellowship: [see credential](https://drive.google.com/file/d/10hZMzH4HWMqOZy37BF5dx3OjNoleYNBj/view?usp=sharing)                                     
 
 - **Python Programming for Beginners:** 
 
-   Badge offered by Udacity: [see credential](https://learn.udacity.com/my-programs?tab=Completed)
+   Badge offered by Udacity: [see credential](https://drive.google.com/file/d/1-vbjcR6uO4MqbPHYqCQYh8bEFC3QJ9VH/view?usp=sharing)
 
 - **Coursera:** Writing In The Science by Stamford University [see credential]()
 
