@@ -9,7 +9,7 @@ I have been learning Java and C++ programming languages in my college, but later
 * 🌍  I'm based in Katsina, Nigeria
 * ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com)
 * 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on NLP and Reinforcement Learning
+* 🤝  I'm open to collaborating on NLP, Sentiment Analysis and Reinforcement Learning
 * ⚡  You can check some of my [medium](https://medium.com/@lurwan2107) blogposts below:
     
      *  [NumPy as a Python Core Library for Data Science](https://medium.com/@lurwan2107/numpy-as-a-python-core-library-for-data-science-b7272313b2e3)
@@ -21,9 +21,7 @@ I have been learning Java and C++ programming languages in my college, but later
 
 -  **Data Science and Machine Learning:** Google Research        
 
-   Arewa Data Science Academy Fellowship                              
-
-   Issued July, 2023                                                 
+   Arewa Data Science Academy Fellowship                                                                              
 
    [:point_right: Certificate]()
 
@@ -31,31 +29,19 @@ I have been learning Java and C++ programming languages in my college, but later
 
   Arewa Data Science Academy Fellowship
 
-  Issued March, 2023
-
   [:point_right: Certificate]()                                     
 
 - **Python Programming for Beginners:** 
 
    Badge offered by Udacity
 
-   Issued January, 20223
-
    [:point_right: Badge]()
 
-- **Writing In The Science:**
-
-   Certificate offered by Coursera
-
-   Issued July, 2023
+- **Coursera:** Writing In The Science by Stamford University
 
    [:point_right: Certificate]()
 
-- **Learning How To Learn:** Deep Teaching
-
-   Certificate offered by Coursera
-
-   Issued March, 2023
+- **Coursera:** Learning How To Learn (Deep Teaching Solution)
 
    [:point_right: Certificate]()  
 
