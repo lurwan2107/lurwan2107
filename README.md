@@ -9,7 +9,7 @@ I have been learning Java and C++ programming languages during my stay at the un
 * 🌍  I'm based in Katsina, Nigeria
 * ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com) or [csc180680@students.umyu.edu.ng](mailto:csc180680@students.umyu.edu.ng)
 * 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on NLP, Sentiment Analysis and Reinforcement Learning
+* 🤝  I'm open for collaboration on NLP, Sentiment Analysis and Reinforcement Learning
 * ⚡  You can check some of my [medium](https://medium.com/@lurwan2107) blogposts below:
     
      *  [NumPy as a Python Core Library for Data Science](https://medium.com/@lurwan2107/numpy-as-a-python-core-library-for-data-science-b7272313b2e3)
