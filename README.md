@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Computer Scientist
 ------------------------
 
-I have been learning Java and C++ programming languages in my college, but later on I shifted my focus to practicing python and JavaScript, because of my passion to pursue one of Artificial Intelligence subfields such as Machine Learning and Deep Learning.
+I have been learning Java and C++ programming languages during my stay at the university, but later on I shifted my focus to practicing python and JavaScript, because of my passion to pursue one of Artificial Intelligence subfields such as Machine Learning and Deep Learning.
 
 * 🌍  I'm based in Katsina, Nigeria
 * ✉️  You can contact me at [lurwanabdullahi2107@gmail.com](mailto:lurwanabdullahi2107@gmail.com) or [csc180680@students.umyu.edu.ng](mailto:csc180680@students.umyu.edu.ng)
