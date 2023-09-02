@@ -31,9 +31,9 @@ I have been learning Java and C++ programming languages during my stay at the un
 
 - **Coursera:** Learning How To Learn (Deep Teaching Solution) [see credential](https://www.coursera.org/account/accomplishments/certificate/KEM75EGNUP5P)
 
-- **Coursera:** What is Data Science (offered by IBM) [see credential](https://drive.google.com/drive/1fYQYThDd_ZsWsCOfkoEXHRdr_Q03g2FH)
+- **Coursera:** What is Data Science (offered by IBM) [see credential](https://drive.google.com/file/d/1K5HzPHqrgACh6ZI0k923olURNp19isvt/view?usp=sharing)
 
-- **Coursera:** Neural Networks and Deep Learning (DeepLearning.AI) [see credential](https://drive.google.com/drive/folders/1fYQYThDd_ZsWsCOfkoEXHRdr_Q03g2FH)    
+- **Coursera:** Neural Networks and Deep Learning (DeepLearning.AI) [see credential](https://drive.google.com/file/d/1yhnj1D32jHQoPt01cziQMF3cAL97_Dgw/view?usp=sharing)    
 
 ### Skills
 
