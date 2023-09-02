@@ -17,7 +17,7 @@ I have been learning Java and C++ programming languages during my stay at the un
      *  [Guide To Plotting and Data Visualization](https://medium.com/@lurwan2107/guide-to-plotting-and-data-visualization-15882b218fa3)
      *  [Accessing and Visualizing Data using Pandas and Matplotlib Parckages](https://medium.com/@lurwan2107/accessing-and-visualizing-data-using-pandas-and-matplotlib-parckages-b6ab87c734fa)
 
-### Certifications
+### Some Of My Certifications
 
 -  **Data Science and Machine Learning:** Google Research        
 
@@ -27,13 +27,13 @@ I have been learning Java and C++ programming languages during my stay at the un
 
   Arewa Data Science Academy Fellowship: [see credential](https://drive.google.com/file/d/10hZMzH4HWMqOZy37BF5dx3OjNoleYNBj/view?usp=sharing)                                     
 
-- **Python Programming for Beginners:** 
-
-   Badge offered by Udacity: [see credential](https://drive.google.com/file/d/1-vbjcR6uO4MqbPHYqCQYh8bEFC3QJ9VH/view?usp=sharing)
-
 - **Coursera:** Writing In The Science by Stamford University [see credential]()
 
-- **Coursera:** Learning How To Learn (Deep Teaching Solution) [see credential](https://www.coursera.org/account/accomplishments/certificate/KEM75EGNUP5P)  
+- **Coursera:** Learning How To Learn (Deep Teaching Solution) [see credential](https://www.coursera.org/account/accomplishments/certificate/KEM75EGNUP5P)
+
+- **Coursera:** What is Data Science (offered by IBM) [see credential](https://drive.google.com/drive/folders/1fYQYThDd_ZsWsCOfkoEXHRdr_Q03g2FH)
+
+- **Coursera:** Neural Networks and Deep Learning (DeepLearning.AI) [see credential](https://drive.google.com/drive/folders/1fYQYThDd_ZsWsCOfkoEXHRdr_Q03g2FH)    
 
 ### Skills
 
